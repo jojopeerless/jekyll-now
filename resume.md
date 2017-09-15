@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My rename
-permalink: /rename/
+title: My resume
+permalink: /resume/
 ---
 
  Name: phonprasit Butoon
