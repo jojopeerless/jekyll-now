@@ -6,5 +6,5 @@ permalink: /resume/
 
  Name: phonprasit Butoon
  
- # Education
+ #Education
  Bs.c. computer Science, Faculty of Computer Science, Ubon Ratchathani Ratchabhat University.
